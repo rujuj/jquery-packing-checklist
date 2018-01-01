@@ -5,3 +5,5 @@ This is a really simple packing checklist made using jQuery: on the click of an 
 - Strikethrough the checklist instead of hiding
 - Option to toggle "disappear" and "strikethrough"
 - Saving the data
+
+### This checklist is published at http://ruju.me/checklist.html
