@@ -6,4 +6,4 @@ This is a really simple packing/moving checklist made using jQuery: on the click
 - Saving the data
 - Add drop-downs per category
 
-### This checklist is published at http://ruju.me/checklist.html
+### This checklist is published at https://rujuj.github.io/checklist.html
